@@ -20,3 +20,5 @@ What's this?
 9/1/2021 Wednesday 1:55:06 PM.
 
 9/1/2021 Wednesday 1:55:19 PM.
+
+9/14/2021 Tuesday 1:42:56 PM.  Beware the WSL2 Ubuntu-18.04 ==> Ubuntu-20.04 upgrade process!
