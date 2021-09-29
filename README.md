@@ -26,3 +26,5 @@ What's this?
 ===
 
 9/17/2021 Friday 9:16:46 PM.  From a fresh install of Ubuntu-20.04.  Excellent.
+
+9/29/2021 Wednesday 9:39:07 AM.
